@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_abc.test</api_name>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>test</name>
+        <script><![CDATA[var test = Class.create();
+test.prototype = {
+    initialize: function() {
+    },
+
+    type: 'test'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-04 03:58:18</sys_created_on>
+        <sys_id>5a33f88254320300b7c83c7d8d0e4f20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="abc" source="x_abc">ef13788254320300b7c83c7d8d0e4fa3</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="abc">ef13788254320300b7c83c7d8d0e4fa3</sys_scope>
+        <sys_update_name>sys_script_include_5a33f88254320300b7c83c7d8d0e4f20</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-04 03:58:18</sys_updated_on>
+    </sys_script_include>
+</record_update>
