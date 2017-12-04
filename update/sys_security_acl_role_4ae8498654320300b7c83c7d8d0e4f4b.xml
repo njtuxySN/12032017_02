@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-04 05:32:53</sys_created_on>
+        <sys_id>4ae8498654320300b7c83c7d8d0e4f4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_abc_test_01.x_abc.test_01_user</sys_name>
+        <sys_package display_value="abc" source="x_abc">ef13788254320300b7c83c7d8d0e4fa3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="abc">ef13788254320300b7c83c7d8d0e4fa3</sys_scope>
+        <sys_security_acl display_value="x_abc_test_01">02e8498654320300b7c83c7d8d0e4f49</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_4ae8498654320300b7c83c7d8d0e4f4b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-04 05:32:53</sys_updated_on>
+        <sys_user_role display_value="x_abc.test_01_user" name="x_abc.test_01_user">75e8098654320300b7c83c7d8d0e4fe6</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
